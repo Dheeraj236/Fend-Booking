@@ -7,17 +7,17 @@ export default function Contact() {
     {
       icon: <FaPhoneAlt />,
       title: "Contact Us",
-      info: "Phone:98xxxxxxx",
+      info: "Phone:91xxxxxxx",
     },
     {
       icon: <FaMailchimp />,
       title: "Write To Us",
-      info: "Mail:hotelbooxxxg@gxxxx.inxx",
+      info: "Mail:hotelbooking@gxxxx.in",
     },
     {
       icon: <FaMapMarker />,
       title: "Address",
-      info: "Hosur Estates",
+      info: "Estates",
     },
   ];
   const [state] = useState(services);
